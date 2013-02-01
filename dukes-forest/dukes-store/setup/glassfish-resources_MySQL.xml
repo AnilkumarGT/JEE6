@@ -29,8 +29,8 @@
         <property name="serverName" value="localhost"/>
         <property name="portNumber" value="3306"/>
         <property name="databaseName" value="forest"/>
-        <property name="User" value="root"/>
-        <property name="Password" value="root"/>
+        <property name="User" value="your-db-user"/>
+        <property name="Password" value="your-db-user-password"/>
         <property name="URL" value="jdbc:mysql://localhost:3306/forest"/>
     </jdbc-connection-pool>
     
